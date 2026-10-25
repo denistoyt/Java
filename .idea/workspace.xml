@@ -64,19 +64,6 @@
       <recent name="D:\Study\urfu\Предметы\Программирование\Лабы\git_rep\labs\lab0" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Java24" type="Java Scratch">
-      <option name="ALTERNATIVE_JRE_PATH" value="24" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="git_rep" />
-      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/labs/lab0/tasks/task_1/maze/src/maze.java" />
-      <shortenClasspath name="NONE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
