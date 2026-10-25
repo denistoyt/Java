@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Free Theme");
+        System.out.print("labyrinth project");
     }
 }
