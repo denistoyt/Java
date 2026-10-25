@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0193b02b-c892-4cee-9dbe-c400a73a9cbf" name="Changes" comment="." />
+    <list default="true" id="0193b02b-c892-4cee-9dbe-c400a73a9cbf" name="Changes" comment="Прогон файлов в ветку" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +15,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "lab1"
+    "git-widget-placeholder": "lab1",
+    "git.auto.fetch.suggestion.counter": "2"
   }
 }]]></component>
   <component name="TaskManager">
@@ -23,6 +24,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Прогон файлов в ветку" />
+    <option name="LAST_COMMIT_MESSAGE" value="Прогон файлов в ветку" />
   </component>
 </project>
