@@ -1,0 +1,65 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"66d42b43-a24d-42a3-84d7-a14046800656\" name=\"Changes\" comment=\"Второе задание\">\r\n      <change beforePath=\"$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/.idea/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/.idea/misc.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/.idea/modules.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/.idea/vcs.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/free_theme.iml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/src/Main.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/tasks/task_1/maze/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/tasks/task_1/maze/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/tasks/task_1/maze/out/production/maze/Main.class\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/denistoyt/Java.git&quot;,\r\n    &quot;accountId&quot;: &quot;5888fb07-75d1-46f0-997d-54075d2636df&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"git-widget-placeholder\": \"lab0\",\r\n    \"last_opened_file_path\": \"D:/Study/urfu/Предметы/Программирование/Лабы/git_rep/tasks\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Study\\urfu\\Предметы\\Программирование\\Лабы\\git_rep\\tasks\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Study\\urfu\\Предметы\\Программирование\\Лабы\\git_rep\\tasks\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/lab0\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Директория решений\" />\r\n    <MESSAGE value=\"Первое задание\" />\r\n    <MESSAGE value=\"Второе задание\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Второе задание\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9cc24a881335d005cfbae594f4acc060d3a57299)
++++ b/.idea/workspace.xml	(date 1792934857697)
+@@ -1,17 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="66d42b43-a24d-42a3-84d7-a14046800656" name="Changes" comment="Второе задание">
+-      <change beforePath="$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/.idea/modules.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/.idea/vcs.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/free_theme.iml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/labs/lab0/tasks/task_2/free_theme/src/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/tasks/task_1/maze/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/task_1/maze/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/tasks/task_1/maze/out/production/maze/Main.class" beforeDir="false" />
+-    </list>
++    <list default="true" id="66d42b43-a24d-42a3-84d7-a14046800656" name="Changes" comment="Отчет" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -19,6 +9,7 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="GithubPullRequestsUISettings">{
+   &quot;selectedUrlAndAccountId&quot;: {
+@@ -29,12 +20,12 @@
+   <component name="ProjectLevelVcsManager">
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "git-widget-placeholder": "lab0",
+-    "last_opened_file_path": "D:/Study/urfu/Предметы/Программирование/Лабы/git_rep/tasks"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;git-widget-placeholder&quot;: &quot;lab0&quot;,
++    &quot;last_opened_file_path&quot;: &quot;D:/Study/urfu/Предметы/Программирование/Лабы/git_rep/tasks&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="D:\Study\urfu\Предметы\Программирование\Лабы\git_rep\tasks" />
+@@ -73,6 +64,9 @@
+     <MESSAGE value="Директория решений" />
+     <MESSAGE value="Первое задание" />
+     <MESSAGE value="Второе задание" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Второе задание" />
++    <MESSAGE value="Правки по папкам" />
++    <MESSAGE value="Третье задание" />
++    <MESSAGE value="Отчет" />
++    <option name="LAST_COMMIT_MESSAGE" value="Отчет" />
+   </component>
+ </project>
+\ No newline at end of file
