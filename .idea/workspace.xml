@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0193b02b-c892-4cee-9dbe-c400a73a9cbf" name="Changes" comment="Прогон файлов в ветку" />
+    <list default="true" id="0193b02b-c892-4cee-9dbe-c400a73a9cbf" name="Changes" comment="Прогон файлов в ветку">
+      <change afterPath="$PROJECT_DIR$/tasks/task_1/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task_10/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task_2/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task_3/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task_4/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task_5/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task_6/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task_7/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task_8/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task_9/test.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab0" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -16,9 +32,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "git-widget-placeholder": "lab1",
-    "git.auto.fetch.suggestion.counter": "2"
+    "git.auto.fetch.suggestion.counter": "2",
+    "last_opened_file_path": "D:/Study/urfu/Предметы/Программирование/Лабы/git_rep/tasks/task_10",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\urfu\Предметы\Программирование\Лабы\git_rep\tasks\task_10" />
+      <recent name="D:\Study\urfu\Предметы\Программирование\Лабы\git_rep\tasks\task_9" />
+      <recent name="D:\Study\urfu\Предметы\Программирование\Лабы\git_rep\tasks\task_8" />
+      <recent name="D:\Study\urfu\Предметы\Программирование\Лабы\git_rep\tasks\task_7" />
+      <recent name="D:\Study\urfu\Предметы\Программирование\Лабы\git_rep\tasks\task_6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Study\urfu\Предметы\Программирование\Лабы\git_rep\tasks" />
+    </key>
+  </component>
   <component name="TaskManager">
     <servers />
   </component>
